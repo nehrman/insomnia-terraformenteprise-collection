@@ -9,7 +9,7 @@ If not, you can find it here : https://insomnia.rest/download/
 
 ## How to use it 
 
-Just do an import from Insomnia GUI and configure environment variables :
+Just download the JSON file, do an import from Insomnia GUI and configure environment variables :
 
 - Base environment :
 
